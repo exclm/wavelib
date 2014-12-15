@@ -1,3 +1,7 @@
+/*
+  Copyright (c) 2014, Rafat Hussain
+*/
+
 #include "wavelib.h"
 
 wave_object wave_init(char* wname) {
