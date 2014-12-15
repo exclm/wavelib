@@ -50,9 +50,6 @@ struct wt_set{
 	double params[0];
 };
 
-void dwt11(wt_object wt, double *Vin, int M, double *Wout,
-	double *Vout);
-
 void dwt(wt_object wt, double *inp);
 
 void idwt(wt_object wt, double *dwtop);
